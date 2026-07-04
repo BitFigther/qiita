@@ -2,13 +2,13 @@
 title: 「誰」に「何」を報告するべき？
 tags:
   - ポエム
-  - コミュニケーション
-  - 報連相
-  - 新人プログラマ応援
   - マネジメント
+  - コミュニケーション
+  - 新人プログラマ応援
+  - 報連相
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-07-04T15:35:10+09:00'
+id: 6256bfc421f8c837c00a
 organization_url_name: null
 slide: false
 ignorePublish: false
