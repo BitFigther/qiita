@@ -4,8 +4,8 @@ tags:
   - Git
   - GitHub
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-07-05T01:23:32+09:00'
+id: c14defd285385d41d6f4
 organization_url_name: null
 slide: false
 ignorePublish: false
